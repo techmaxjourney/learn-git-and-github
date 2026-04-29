@@ -7,3 +7,5 @@ def say_hello():
 say_hello()
 
 
+for i in range(5):
+    say_hello()
